@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import CustomerPhoto from './сustomerPhoto';
+import CustomerPhoto from './customerPhoto';
 const Header = () => {
   const userId = '12351';
   const name = 'Евгений';
