@@ -1,0 +1,1 @@
+{"c":["pages/_app","webpack"],"r":["pages/customer/[customer]"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=D%3A%5Cnextjs%5Cpages%5Ccustomer%5C%5Bcustomer%5D.js&page=%2Fcustomer%2F%5Bcustomer%5D!","./node_modules/next/router.js","./pages/customer/[customer].js"]}
