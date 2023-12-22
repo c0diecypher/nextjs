@@ -1,5 +1,6 @@
-import Link from 'next/link'
 
+import Link from 'next/link'
+import CustomerPhoto from './CustomerPhoto';
 const Header = () => {
   const userId = '12351';
   const name = 'Евгений';
@@ -10,7 +11,7 @@ const Header = () => {
                   <Link href={`/customer/${userId}`}>
                    <div className="usercard">
                      <div className="usercard_block">
-                       
+                       <CustomerPhoto/>
                        <div className='usercard-info'>
                          <div className='usercard-name'>
                            <div className='usercard-navigation-name'>{name}</div>
