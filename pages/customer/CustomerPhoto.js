@@ -1,7 +1,6 @@
 import { useState } from "react";
-export default function CustomerPhoto(){
+const СustomerPhoto = () => {
     const url = `https://cdn.zipperconnect.space/customer/settings/client/photo/204688184`;
-    
     
     return (
         <>
@@ -13,3 +12,5 @@ export default function CustomerPhoto(){
         </>
     );
 };
+
+export default СustomerPhoto;
